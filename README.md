@@ -39,7 +39,7 @@ Mac/Linux:source venv/bin/activate
 pip install -r requirements.txt
 python image_app.py
 
-goruntu-histogrami-ve-kontrast-gelistirme/
+goruntu-histogrami-ve-kontrast-gelistirme:
 -image_app.py
 -requirements.txt
 -README.md
@@ -48,4 +48,5 @@ goruntu-histogrami-ve-kontrast-gelistirme/
 
 
   
+
 
