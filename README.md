@@ -19,7 +19,17 @@ Kullanılan Yöntemler:
 - PSNR (Peak Signal-to-Noise Ratio)
 - SSIM (Structural Similarity Index Measure)
 
-DEMO GÖRSELLER
+DEMO GÖRSELLER:
+<p align="center">
+  <p>1.görsel: CLAHE<p>
+  <img src="img1.png" width="55%">
+  
+  <br>
+  <p>2.görsel: Histogram Equalization<p> 
+  <br>
+  <img src="img2.png" width="55%">
+</p>
+
 
 KURULUM:
 Ortamı oluştur: python -m venv venv
@@ -30,12 +40,12 @@ pip install -r requirements.txt
 python image_app.py
 
 goruntu-histogrami-ve-kontrast-gelistirme/
-│
-├── image_app.py
-├── requirements.txt
-├── README.md
-└── .gitignore
+-image_app.py
+-requirements.txt
+-README.md
+-.gitignore
 
 
 
   
+
